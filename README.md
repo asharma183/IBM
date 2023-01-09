@@ -1,3 +1,4 @@
 # IBM
-## aditya
+## Aditya
+### Business Analyst
 Repository for Data Science course
